@@ -11,7 +11,7 @@
 
 # activate the virtual env tensorflow
 
-source activate tensorflow2
+source activate srgan
 # Source file for CUDA 8.0 and cuDNN 7.0.5
 # 23/04/18
 
